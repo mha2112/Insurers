@@ -1,2 +1,0 @@
-# Insurers
-Capstone Project

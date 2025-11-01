@@ -1,0 +1,14 @@
+MEPS HC-248F: 2023 Outpatient Visits File: https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_codebook.jsp?PUFId=H248F
+ 
+MEPS HC-248D: 2023 Hospital Inpatient Stays File: https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_codebook.jsp?PUFId=H248D
+
+MEPS HC-248E: 2023 Emergency Room Visits File: https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_codebook.jsp?PUFId=H248E
+
+MEPS HC-249: 2023 Medical Conditions File: https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-249
+	 
+MEPS HC-248I: Appendix to MEPS 2023 Event Files:https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_codebook.jsp?PUFId=H248I
+
+Entity Relational Diagram: https://github.com/HHS-AHRQ/MEPS/blob/master/Quick_Reference_Guides/meps_erd.pdf
+
+ICD-10 conditions: https://meps.ahrq.gov/data_stats/download_data/pufs/h249/h249doc.pdf
+
