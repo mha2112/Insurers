@@ -296,3 +296,7 @@ XGBoost for Regression, Geeks for Geeks, 28 Oct, 2025
 [https://www.geeksforgeeks.org/machine-learning/xgboost-for-regression/]
 
 Merge, join, concatenate and compare, Pandas, [https://pandas.pydata.org/docs/user_guide/merging.html]
+
+Markdown Guide, [https://www.markdownguide.org/basic-syntax/]
+
+Pandas 101 : A Comprehensive Guide to Mastering Data Analysis with Python’s Pandas Library, Niraj Tiwari. 01/09/2024, [https://medium.com/@niraj.e21/pandas-101-dccdc78c2248]
